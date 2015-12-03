@@ -24,7 +24,7 @@ class LineSegment
     init(start s: CGPoint, end e: CGPoint)
     {
         start = s
-        end = e 
+        end = e
     }
 }
 
